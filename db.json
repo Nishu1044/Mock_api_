@@ -1,0 +1,83 @@
+{
+    "products": [
+        {
+          "id": "1",
+          "brand": "Sugar",
+          "category": "Foundation",
+          "price": "$7.99",
+          "rating": 4.3
+         
+        },
+        {
+          "id": "2",
+          "brand": "Sugar",
+          "category": "Eyeliner",
+          "price": "$6.49",
+          "rating": 4.1
+        },
+        {
+          "id": "3",
+          "brand": "Sugar",
+          "category": "Lipstick",
+          "price": "$6.50",
+          "rating": 4.5
+          
+        },
+        {
+          "id": "4",
+          "brand": "Sugar",
+          "category": "Eyeshadow",
+          "price": "$42.00",
+          "rating": 4.8
+        
+        },
+        {
+          "id": "5",
+          "brand": "Sugar",
+          "category": "Lipstick",
+          "price": "$9.99",
+          "rating": 4.2
+          
+        },
+        {
+          "id": "6",
+          "brand": "Sugar",
+          "category": "Bronzer",
+          "price": "$30.00",
+          "rating": 4.7
+         
+        },
+        {
+          "id": "7",
+          "brand": "Sugar",
+          "category": "Foundation",
+          "price": "$33.00",
+          "rating": 4.6
+          
+        },
+        {
+          "id": "8",
+          "brand": "Sugar",
+          "category": "Eyeshadow",
+          "price": "$54.00",
+          "rating": 4.9
+         
+        },
+        {
+          "id": "9",
+          "brand": "Sugar",
+          "category": "Mascara",
+          "price": "$26.00",
+          "rating": 4.7
+          
+        },
+        {
+          "id": "10",
+          "brand": "Sugar",
+          "category": "Foundation",
+          "price": "$36.00",
+          "rating": 4.4
+         
+        }
+      ]
+}
